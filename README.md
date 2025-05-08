@@ -12,3 +12,4 @@ Cualquier contribución es bienvenida. Simplemente crea un fork de este repo, ha
 
 1. Java
 - [Calculadora de Hipoteca](./java/05-hipoteca) / [vídeo](https://youtu.be/yezTelCLtfk)
+- HashSet / [vídeo](https://youtu.be/A71gMutZA0o)
