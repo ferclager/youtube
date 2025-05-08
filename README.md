@@ -18,6 +18,7 @@ Cualquier contribución es bienvenida. Simplemente crea un fork de este repo, ha
 - Enums / [vídeo](https://youtu.be/JuzeZ0DxOW4)
 
 2. Git / GitHub
+- git delete repo / [vídeo](https://youtu.be/rhUw7EkJl8g)
 - Hostea en GitHub Pages / [vídeo](https://youtu.be/_PrGIB5EGaU)
 - [Hostea tu perfil en GitHub Pages](https://github.com/ferclager/ferclager.github.io)  / [vídeo](https://youtu.be/d9PCg7RufZw)
 - [LittleLink](https://github.com/ferclager/ferclager.github.io)  / [vídeo](https://youtu.be/rcSeky7day0)
