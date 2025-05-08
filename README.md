@@ -18,6 +18,7 @@ Cualquier contribución es bienvenida. Simplemente crea un fork de este repo, ha
 - Enums / [vídeo](https://youtu.be/JuzeZ0DxOW4)
 
 2. Git / GitHub
+- Undo remote commit / [vídeo](https://youtu.be/CEnjV8gwJi0)
 - Undo local commit / [vídeo](https://youtu.be/FlEnbWvkhPE)
 - git delete repo / [vídeo](https://youtu.be/rhUw7EkJl8g)
 - Hostea en GitHub Pages / [vídeo](https://youtu.be/_PrGIB5EGaU)
