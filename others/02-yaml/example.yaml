@@ -1,0 +1,54 @@
+#yaml apareció en 2004, y como puedes observar en su página principal,
+#queda bien claro que no es un lenguaje de margado
+#yaml is todo clave valor, además de indentación y espacios
+# automáticamente detectará qué tipo de valor es... comencemos por los Strings
+name: Fer
+message: 'Hello "World"'
+#si necesitamos
+sentence: >
+  Esto es una cadena 
+  en varias líneas
+  que yaml entiende como una sola
+  y para nosotros será más fácil leer
+  por no ser una línea larguísima
+other-sentence: |
+  Esta cadena es multilínea, 
+  y mantendrá
+  estas nuevas líneas
+
+# pasamos a los números
+age: 42
+height: 1.80
+valor-hex: 0xFF
+
+# pasamos a los booleanos
+enable: true
+
+# pasamos a las listas
+list: 
+  - apple
+  - banana
+  - mango
+
+# otra forma de tener listas
+other-list: [apple, banana, mango]
+
+# pasamos a objetos o diccionarios
+# diferencia... no hay guiones...
+book: 
+  name: El Quijote
+  year: 1605
+  author: Miguel de Cervantes
+
+# pasamos a objetos complejos
+library:
+  - name: El Quijote
+    year: 1605
+    author: Miguel de Cervantes
+  - name: La Celestina
+    year: 1499
+    author: Fernando de Rojas
+
+
+#Comment
+# yaml es todo indentación y espacios...
