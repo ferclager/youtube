@@ -17,7 +17,7 @@ Cualquier contribución es bienvenida. Simplemente crea un fork de este repo, ha
 - HashSet / [vídeo](https://youtu.be/A71gMutZA0o)
 - HashMap / [vídeo](https://youtu.be/sNrssYYQW4c)
 - [final](./java/02-final) / [vídeo](https://youtu.be/VG0yCnP9S0g)
-- Enums / [vídeo](https://youtu.be/JuzeZ0DxOW4)
+- [Enums](./java/01-enums) / [vídeo](https://youtu.be/JuzeZ0DxOW4)
 
 2. Git / GitHub
 - Delete branches / [vídeo](https://youtu.be/dF_agajZT0E)
