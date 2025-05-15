@@ -31,9 +31,9 @@ Cualquier contribución es bienvenida. Simplemente crea un fork de este repo, ha
 - Cuenta GitHub  / [vídeo](https://youtu.be/D3IYIQ5I3ro)
 
 3. Otros
-- Markdown / [vídeo](https://youtu.be/RshvKJ0UAnw)
 - [Yaml](./others/02-yaml) / [vídeo](https://youtu.be/IjkkzP9vg1M)
+- Markdown / [vídeo](https://youtu.be/RshvKJ0UAnw)
 
 4. Telegram
-- [Java](https://github.com/ferclager/telegram-bot-java) / [vídeo](https://youtu.be/Q2oEpfTnmic)
 - [Java Http Interfaces](https://github.com/ferclager/telegram-bot2-java) / [vídeo](https://youtu.be/JjneqO4UZQ0)
+- [Java](https://github.com/ferclager/telegram-bot-java) / [vídeo](https://youtu.be/Q2oEpfTnmic)
