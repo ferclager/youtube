@@ -11,6 +11,7 @@ Cualquier contribución es bienvenida. Simplemente crea un fork de este repo, ha
 ## Listado de vídeos que tienen archivos:
 
 1. Java
+- [Juego Adivina el Número](./java/07-guessing-number) / [vídeo](https://youtu.be/bQJT6889p6Y)
 - [SDKMAN](./java/06-sdkman)
 - [Calculadora de Hipoteca](./java/05-hipoteca) / [vídeo](https://youtu.be/yezTelCLtfk)
 - HashSet / [vídeo](https://youtu.be/A71gMutZA0o)
