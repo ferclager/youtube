@@ -36,3 +36,4 @@ Cualquier contribución es bienvenida. Simplemente crea un fork de este repo, ha
 
 4. Telegram
 - [Java](https://github.com/ferclager/telegram-bot-java) / [vídeo](https://youtu.be/Q2oEpfTnmic)
+- [Java Http Interfaces](https://github.com/ferclager/telegram-bot2-java) / [vídeo](https://youtu.be/JjneqO4UZQ0)
