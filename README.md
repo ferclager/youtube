@@ -33,7 +33,7 @@ Cualquier contribución es bienvenida. Simplemente crea un fork de este repo, ha
 3. Otros
 - Cloc / [vídeo](https://youtu.be/LGX3qBNogBQ)
 - [Yaml](./others/02-yaml) / [vídeo](https://youtu.be/IjkkzP9vg1M)
-- Markdown / [vídeo](https://youtu.be/RshvKJ0UAnw)
+- [Markdown](./others/01-markdown/) / [vídeo](https://youtu.be/RshvKJ0UAnw)
 
 4. Telegram
 - [Java Http Interfaces](https://github.com/ferclager/telegram-bot2-java) / [vídeo](https://youtu.be/JjneqO4UZQ0)
