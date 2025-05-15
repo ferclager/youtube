@@ -33,3 +33,6 @@ Cualquier contribución es bienvenida. Simplemente crea un fork de este repo, ha
 3. Otros
 - Markdown / [vídeo](https://youtu.be/RshvKJ0UAnw)
 - [Yaml](./others/02-yaml) / [vídeo](https://youtu.be/IjkkzP9vg1M)
+
+4. Telegram
+- [Java](https://github.com/ferclager/telegram-bot-java) / [vídeo](https://youtu.be/Q2oEpfTnmic)
