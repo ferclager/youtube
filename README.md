@@ -31,6 +31,7 @@ Cualquier contribución es bienvenida. Simplemente crea un fork de este repo, ha
 - Cuenta GitHub  / [vídeo](https://youtu.be/D3IYIQ5I3ro)
 
 3. Otros
+- Cloc / [vídeo](https://youtu.be/LGX3qBNogBQ)
 - [Yaml](./others/02-yaml) / [vídeo](https://youtu.be/IjkkzP9vg1M)
 - Markdown / [vídeo](https://youtu.be/RshvKJ0UAnw)
 
