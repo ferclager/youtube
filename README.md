@@ -11,6 +11,7 @@ Cualquier contribución es bienvenida. Simplemente crea un fork de este repo, ha
 ## Listado de vídeos que tienen archivos:
 
 1. Java
+- [Juego Ahorcado](./java/12-ahorcado) / [vídeo](https://youtu.be/qHjNCiqYP80)
 - [Constructores](./java/11-constructores) / [vídeo](https://youtu.be/s-sqb-3ntbw)
 - [Método main](./java/10-psvm) / [vídeo](https://youtu.be/sm25p6ZBNlc)
 - [Juego 3 en raya](./java/09-3-en-raya) / [vídeo](https://youtu.be/FLoIxi04GyQ)
