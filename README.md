@@ -11,6 +11,7 @@ Cualquier contribución es bienvenida. Simplemente crea un fork de este repo, ha
 ## Listado de vídeos que tienen archivos:
 
 1. Java
+- [Método main](./java/10-psvm) / [vídeo](https://youtu.be/sm25p6ZBNlc)
 - [Juego 3 en raya](./java/09-3-en-raya) / [vídeo](https://youtu.be/FLoIxi04GyQ)
 - [Patrón de diseño - Singleton](./java/08-pd-singleton) / [vídeo](https://youtu.be/iO7SaslFeRk)
 - [Juego Adivina el Número](./java/07-guessing-number) / [vídeo](https://youtu.be/bQJT6889p6Y)
