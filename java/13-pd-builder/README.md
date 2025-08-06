@@ -6,7 +6,7 @@ Para ejecutar los tests, utiliza el comando siguiente:
 
 Windows
 ```bash
-gradlew.bat clean test --no-build-cache # Windows
+gradlew.bat clean test --no-build-cache
 ```
 
 Linux / Mac
