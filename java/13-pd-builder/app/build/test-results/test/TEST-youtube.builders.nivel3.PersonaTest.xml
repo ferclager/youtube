@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="youtube.builders.nivel3.PersonaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-08-06T05:53:25.704Z" hostname="Fernandos-MacBook-Pro.local" time="0.002">
+  <properties/>
+  <testcase name="should_create_person_with_correct_attributes_when_using_builder_with_required_parameters()" classname="youtube.builders.nivel3.PersonaTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

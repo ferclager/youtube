@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="youtube.builders._problema.PersonaTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-08-06T05:53:25.586Z" hostname="Fernandos-MacBook-Pro.local" time="0.088">
+  <properties/>
+  <testcase name="should_set_phone_as_email_when_passing_phone_into_email_field()" classname="youtube.builders._problema.PersonaTest" time="0.077"/>
+  <testcase name="should_create_person_with_age_when_given_first_middle_name_and_age()" classname="youtube.builders._problema.PersonaTest" time="0.004"/>
+  <testcase name="should_create_person_with_correct_attributes_when_given_just_first_and_last_name()" classname="youtube.builders._problema.PersonaTest" time="0.002"/>
+  <testcase name="should_create_person_with_phone_when_given_first_last_name_and_phone()" classname="youtube.builders._problema.PersonaTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
