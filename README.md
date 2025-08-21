@@ -11,6 +11,7 @@ Cualquier contribución es bienvenida. Simplemente crea un fork de este repo, ha
 ## Listado de vídeos que tienen archivos:
 
 1. Java
+- [Patrón de diseño - Prototype](./java/14-pd-prototype) / [vídeo](https://youtu.be/dK8sElggU5M)
 - [Patrón de diseño - Builder](./java/13-pd-builder) / [vídeo](https://youtu.be/T1iZ56hMCB4)
 - [Juego Ahorcado](./java/12-ahorcado) / [vídeo](https://youtu.be/qHjNCiqYP80)
 - [Constructores](./java/11-constructores) / [vídeo](https://youtu.be/s-sqb-3ntbw)
