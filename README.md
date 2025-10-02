@@ -11,6 +11,7 @@ Cualquier contribución es bienvenida. Simplemente crea un fork de este repo, ha
 ## Listado de vídeos que tienen archivos:
 
 1. Java
+- [Patrón de diseño - Memento](./java/16-pd-memento) / [vídeo](https://youtu.be/WAQ2xISsYW4)
 - [Patrón de diseño - Facade](./java/15-pd-facade) / [vídeo](https://youtu.be/TFXEDtsQkE4)
 - [Patrón de diseño - Prototype](./java/14-pd-prototype) / [vídeo](https://youtu.be/dK8sElggU5M)
 - [Patrón de diseño - Builder](./java/13-pd-builder) / [vídeo](https://youtu.be/T1iZ56hMCB4)
