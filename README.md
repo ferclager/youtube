@@ -11,6 +11,7 @@ Cualquier contribución es bienvenida. Simplemente crea un fork de este repo, ha
 ## Listado de vídeos que tienen archivos:
 
 1. Java
+- [Patrón de diseño - Decorator](./java/20-pd-adapter) / [vídeo](https://youtu.be/DqhncLnmmGw)
 - [Juego Piedra Papel Tijeras](./java/19-plt) / [vídeo](https://youtu.be/WloyuvlLP3E)
 - [Patrón de diseño - Decorator](./java/18-pd-decorator) / [vídeo](https://youtu.be/40TB9KvP3ro)
 - [Patrón de diseño - Observer](./java/17-pd-observer) / [vídeo](https://youtu.be/iBSupkUSazY)
