@@ -11,6 +11,7 @@ Cualquier contribución es bienvenida. Simplemente crea un fork de este repo, ha
 ## Listado de vídeos que tienen archivos:
 
 1. Java
+- [Patrón de diseño - Bridge](./java/21-pd-bridge) / [vídeo](https://youtu.be/G8rajhM_hpY)
 - [Patrón de diseño - Decorator](./java/20-pd-adapter) / [vídeo](https://youtu.be/DqhncLnmmGw)
 - [Juego Piedra Papel Tijeras](./java/19-plt) / [vídeo](https://youtu.be/WloyuvlLP3E)
 - [Patrón de diseño - Decorator](./java/18-pd-decorator) / [vídeo](https://youtu.be/40TB9KvP3ro)
