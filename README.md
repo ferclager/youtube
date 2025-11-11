@@ -11,6 +11,7 @@ Cualquier contribución es bienvenida. Simplemente crea un fork de este repo, ha
 ## Listado de vídeos que tienen archivos:
 
 1. Java
+- [DataFaker](./java/28-datafaker) / [vídeo](https://youtu.be/eM4UJuqTb9U)
 - [Patrón de diseño - Visitor](./java/27-pd-visitor) / [vídeo](https://youtu.be/-b61ZmOgWzs)
 - [Patrón de diseño - Strategy](./java/26-pd-strategy) / [vídeo](https://youtu.be/oKTzpn3R_ZA)
 - [Patrón de diseño - Command](./java/25-pd-command) / [vídeo](https://youtu.be/nScBlCqcLUY)
