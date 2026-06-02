@@ -11,7 +11,7 @@ Cualquier contribución es bienvenida. Simplemente crea un fork de este repo, ha
 ## Listado de vídeos que tienen archivos:
 
 1. Java
-- [Patrón de diseño - Mediatorr](./java/29-pd-mediator) / [vídeo](https://youtu.be/nx-9WkRdlh8)
+- [Patrón de diseño - Mediator](./java/29-pd-mediator) / [vídeo](https://youtu.be/nx-9WkRdlh8)
 - [DataFaker](./java/28-datafaker) / [vídeo](https://youtu.be/eM4UJuqTb9U)
 - [Patrón de diseño - Visitor](./java/27-pd-visitor) / [vídeo](https://youtu.be/-b61ZmOgWzs)
 - [Patrón de diseño - Strategy](./java/26-pd-strategy) / [vídeo](https://youtu.be/oKTzpn3R_ZA)
@@ -49,7 +49,7 @@ Cualquier contribución es bienvenida. Simplemente crea un fork de este repo, ha
 - Hostea en GitHub Pages / [vídeo](https://youtu.be/_PrGIB5EGaU)
 - [Hostea tu perfil en GitHub Pages](https://github.com/ferclager/ferclager.github.io)  / [vídeo](https://youtu.be/d9PCg7RufZw)
 - [LittleLink](https://github.com/ferclager/ferclager.github.io)  / [vídeo](https://youtu.be/rcSeky7day0)
-- [ssh GitHub](https://github.com/frclager/demo)  / [vídeo](https://youtu.be/CNUXWMPwBMU)
+- [ssh GitHub](https://github.com/ferclager/demo)  / [vídeo](https://youtu.be/CNUXWMPwBMU)
 - Cuenta GitHub  / [vídeo](https://youtu.be/D3IYIQ5I3ro)
 
 3. Otros
