@@ -30,14 +30,16 @@ Cualquier contribución es bienvenida. Simplemente crea un fork de este repo, ha
 - [Builder](./java/13-pd-builder) / [vídeo](https://youtu.be/T1iZ56hMCB4)
 - [Singleton](./java/08-pd-singleton) / [vídeo](https://youtu.be/iO7SaslFeRk)
 
+**Juegos**
+- [Piedra Papel Tijeras](./java/19-plt) / [vídeo](https://youtu.be/WloyuvlLP3E)
+- [Ahorcado](./java/12-ahorcado) / [vídeo](https://youtu.be/qHjNCiqYP80)
+- [3 en raya](./java/09-3-en-raya) / [vídeo](https://youtu.be/FLoIxi04GyQ)
+- [Adivina el Número](./java/07-guessing-number) / [vídeo](https://youtu.be/bQJT6889p6Y)
+
 **Otros**
 - [DataFaker](./java/28-datafaker) / [vídeo](https://youtu.be/eM4UJuqTb9U)
-- [Juego Piedra Papel Tijeras](./java/19-plt) / [vídeo](https://youtu.be/WloyuvlLP3E)
-- [Juego Ahorcado](./java/12-ahorcado) / [vídeo](https://youtu.be/qHjNCiqYP80)
 - [Constructores](./java/11-constructores) / [vídeo](https://youtu.be/s-sqb-3ntbw)
 - [Método main](./java/10-psvm) / [vídeo](https://youtu.be/sm25p6ZBNlc)
-- [Juego 3 en raya](./java/09-3-en-raya) / [vídeo](https://youtu.be/FLoIxi04GyQ)
-- [Juego Adivina el Número](./java/07-guessing-number) / [vídeo](https://youtu.be/bQJT6889p6Y)
 - [SDKMAN](./java/06-sdkman)
 - [Calculadora de Hipoteca](./java/05-hipoteca) / [vídeo](https://youtu.be/yezTelCLtfk)
 - [HashSet](./java/04-set/) / [vídeo](https://youtu.be/A71gMutZA0o)
