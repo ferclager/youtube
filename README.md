@@ -36,16 +36,18 @@ Cualquier contribución es bienvenida. Simplemente crea un fork de este repo, ha
 - [3 en raya](./java/09-3-en-raya) / [vídeo](https://youtu.be/FLoIxi04GyQ)
 - [Adivina el Número](./java/07-guessing-number) / [vídeo](https://youtu.be/bQJT6889p6Y)
 
-**Otros**
-- [DataFaker](./java/28-datafaker) / [vídeo](https://youtu.be/eM4UJuqTb9U)
+**Fundamentos**
 - [Constructores](./java/11-constructores) / [vídeo](https://youtu.be/s-sqb-3ntbw)
 - [Método main](./java/10-psvm) / [vídeo](https://youtu.be/sm25p6ZBNlc)
-- [SDKMAN](./java/06-sdkman)
-- [Calculadora de Hipoteca](./java/05-hipoteca) / [vídeo](https://youtu.be/yezTelCLtfk)
 - [HashSet](./java/04-set/) / [vídeo](https://youtu.be/A71gMutZA0o)
 - [HashMap](./java/03-map/) / [vídeo](https://youtu.be/sNrssYYQW4c)
 - [final](./java/02-final) / [vídeo](https://youtu.be/VG0yCnP9S0g)
 - [Enums](./java/01-enums) / [vídeo](https://youtu.be/JuzeZ0DxOW4)
+
+**Otros**
+- [DataFaker](./java/28-datafaker) / [vídeo](https://youtu.be/eM4UJuqTb9U)
+- [SDKMAN](./java/06-sdkman)
+- [Calculadora de Hipoteca](./java/05-hipoteca) / [vídeo](https://youtu.be/yezTelCLtfk)
 
 2. Git / GitHub
 - Delete branches / [vídeo](https://youtu.be/dF_agajZT0E)
