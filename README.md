@@ -1,6 +1,6 @@
 # Fer Clager repo
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ferclager)
+[![ko-fi](https://ko-fi.com/LandingPageAssets/img/logomarkLogo2024.png](https://ko-fi.com/ferclager)
 
 Este es un repo donde subo el código que uso para los vídeos de [mi canal en youtube](https://www.youtube.com/@FeRClager). Voy a tratar de mantenerlo actualizado, pero no prometo nada.
 
