@@ -13,6 +13,7 @@ Cualquier contribución es bienvenida. Simplemente crea un fork de este repo, ha
 1. Java
 
 **Patrones de diseño**
+- [Interpreter](./java/30-pd-interpreter) / [vídeo](https://youtu.be/xLvLPxIFlNo)
 - [Mediator](./java/29-pd-mediator) / [vídeo](https://youtu.be/nx-9WkRdlh8)
 - [Visitor](./java/27-pd-visitor) / [vídeo](https://youtu.be/-b61ZmOgWzs)
 - [Strategy](./java/26-pd-strategy) / [vídeo](https://youtu.be/oKTzpn3R_ZA)
